@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 public class CountUniqueCharacters {
     public static void main(String[] args) {
         System.out.println("countUniques(\"asdddrrr\") = " + countUniques("asdddrrr"));
-        System.out.println(countUniques("asdfrrrtttrreee"));
+        System.out.println(countUniques("aassddff"));
 
     }
 
